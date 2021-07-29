@@ -411,7 +411,7 @@ header.sticky{
     }
 
     50%{
-        transform: translateY(-3remgit);
+        transform: translateY(-3rem);
     }
 }
 
